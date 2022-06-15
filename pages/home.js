@@ -1,4 +1,4 @@
-function pageHome() {
+function PageHome() {
  return `<!DOCTYPE html>
  <html lang="en">
  <head>
@@ -23,4 +23,4 @@ function pageHome() {
  </html>`;
 }
 
-export {pageHome}
+export {PageHome}
